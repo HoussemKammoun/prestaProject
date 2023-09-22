@@ -1,0 +1,6 @@
+APISuitTest\PostMethod.class
+APISuitTest\UpdateMethod.class
+Methods\ConfigReader.class
+APISuitTest\DeleteMethod.class
+APISuitTest\GetEmployees.class
+APISuitTest\GetSingelUser.class
