@@ -56,7 +56,7 @@
   </dependencies>
   <profiles>
   <profile>
-  <id>API TEST</id>
+  <id>APITEST</id>
   <build>
     <pluginManagement>
       <plugins>
